@@ -1,1 +1,1 @@
-# QG-SME
+# SME-QG
